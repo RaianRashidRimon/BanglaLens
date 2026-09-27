@@ -1,0 +1,1001 @@
+﻿Word_id,Parts of Speech,English_word,Bengali_source_word,Bangla_script_target,Romanized_target
+W0001,noun,abyss,অতল,অতল,otol
+W0002,noun,affection ,স্নেহ,স্নেহ,sneho
+W0003,noun,anger,রাগ,রাগ,raag
+W0004,noun,answer,উত্তর,উত্তর,uttor
+W0005,noun,apple,আপেল,আপেল,apel
+W0006,noun,archive,সংরক্ষণাগার,সংরক্ষণাগার,shongrokkhonagar
+W0007,noun,astronaut,মহাকাশচারী,মহাকাশচারী,mohakashchori
+W0008,noun,bag,ব্যাগ,ব্যাগ,bag
+W0009,noun,bastion,বুরুজ,বুরুজ,buruj
+W0010,noun,beacon,সঙ্কেত,সঙ্কেত,shonket
+W0011,noun,bird,পাখি,পাখি,pakhi
+W0012,noun,book,বই,বই,boi
+W0013,noun,brain,মস্তিষ্ক,মস্তিষ্ক,mostishko
+W0014,noun,bridge,সেতু,সেতু,shetu
+W0015,noun,brook,ঝরনা,ঝরনা,jhorna
+W0016,noun,brother,ভাই,ভাই,bhai
+W0017,noun,bus,বাস,বাস,bus
+W0018,noun,butterfly,প্রজাপতি,প্রজাপতি,projapati
+W0019,noun,canopy ,ছাউনি,ছাউনি,chhauni
+W0020,noun,car,গাড়ি,গাড়ি,gari
+W0021,noun,cascade,জলপ্রপাত,জলপ্রপাত,jolpropat
+W0022,noun,catalyst,অনুঘটক,অনুঘটক,onughotok
+W0023,noun,chair,চেয়ার,চেয়ার,chair
+W0024,noun,chapter,অধ্যায়,অধ্যায়,oddhay
+W0025,noun,chasm,ফাটল,ফাটল,fatol
+W0026,noun,child,শিশু,শিশু,shishu
+W0027,noun,church,গির্জা,গির্জা,girja
+W0028,noun,cinema,সিনেমা,সিনেমা,cinema
+W0029,noun,city,শহর,শহর,shohor
+W0030,noun,cloud,মেঘ,মেঘ,megh
+W0031,noun,computer,কম্পিউটার,কম্পিউটার,computer
+W0032,noun,conduit,নালী,নালী,nali
+W0033,noun,confident ,আত্মবিশ্বাসী,আত্মবিশ্বাসী,attyobisshashi
+W0034,noun,courage,সাহস,সাহস,shahos
+W0035,noun,cry,কান্না,কান্না,kanna
+W0036,noun,culture,সংস্কৃতি,সংস্কৃতি,shangskriti
+W0037,noun,dance,নাচ,নাচ,nach
+W0038,noun,death,মৃত্যু,মৃত্যু,mrittu
+W0039,noun,debris,ধ্বংসাবশেষ,ধ্বংসাবশেষ,dhongshaboshesh
+W0040,noun,desert,মরুভূমি,মরুভূমি,morubhumi
+W0041,noun,desire ,কামনা,কামনা,kamona
+W0042,noun,despair ,হতাশা,হতাশা,hotasha
+W0043,noun,destination,গন্তব্য,গন্তব্য,gontobbo
+W0044,noun,destiny ,ভাগ্য,ভাগ্য,bhaggo
+W0045,noun,devotion ,নিষ্ঠা,নিষ্ঠা,nishtha
+W0046,noun,dilemma,দ্বিধা,দ্বিধা,didha
+W0047,noun,disease,রোগ,রোগ,rog
+W0048,noun,doctor,ডাক্তার,ডাক্তার,daktar
+W0049,noun,door,দরজা ,দরজা ,dorja
+W0050,noun,drama,নাটক,নাটক,natok
+W0051,noun,dream,স্বপ্ন,স্বপ্ন,shopno
+W0052,noun,ecstasy ,পরমানন্দ,পরমানন্দ,poromanondo
+W0053,noun,elephant,হাতি,হাতি,hati
+W0054,noun,enchantment ,জাদু,জাদু,jadu
+W0055,noun,enigma,ধাঁধা,ধাঁধা,dhada
+W0056,noun,entity,সত্তা,সত্তা,shotta
+W0057,noun,epiphany,উপলব্ধি,উপলব্ধি,upolobdhi
+W0058,noun,epoch,যুগ,যুগ,jug
+W0059,noun,existence ,অস্তিত্ব,অস্তিত্ব,ostitto
+W0060,noun,experience,অভিজ্ঞতা,অভিজ্ঞতা,obhiggota
+W0061,noun,facet,দিক,দিক,dik
+W0062,noun,failure,ব্যর্থতা,ব্যর্থতা,berthota
+W0063,noun,family,পরিবার,পরিবার,poribar
+W0064,noun,father,পিতা,পিতা,pita
+W0065,noun,fear,ভয়,ভয়,bhoy
+W0066,noun,festival,উৎসব,উৎসব,utshob
+W0067,noun,file,ফাইল,ফাইল,file
+W0068,noun,flower,ফুল,ফুল,ful
+W0069,noun,folder,ফোল্ডার,ফোল্ডার,folder
+W0070,noun,food,খাবার,খাবার,khabar
+W0071,noun,forest,বন,বন,bon
+W0072,noun,fragment,খণ্ড,খণ্ড,khondo
+W0073,noun,freedom,স্বাধীনতা,স্বাধীনতা,shadinota
+W0074,noun,friend,বন্ধু,বন্ধু,bondhu
+W0075,noun,frost,হিম,হিম,heem
+W0076,noun,future,ভবিষ্যৎ,ভবিষ্যৎ,bhobishhot
+W0077,noun,galaxy,ছায়াপথ,ছায়াপথ,chayapath
+W0078,noun,genesis,উৎপত্তি,উৎপত্তি,utpotti
+W0079,noun,genius,প্রতিভা,প্রতিভা,protiva
+W0080,noun,gift,উপহার,উপহার,upohar
+W0081,noun,glimmer,ক্ষীণ আলো,ক্ষীণ আলো,khino alo
+W0082,noun,glory,মহিমা,মহিমা,mohima
+W0083,noun,goal,লক্ষ্য,লক্ষ্য,lokkho
+W0084,noun,habit,অভ্যাস,অভ্যাস,ovvash
+W0085,noun,happiness,সুখ,সুখ,shukh
+W0086,noun,harbor,বন্দর,বন্দর,bondor
+W0087,noun,hardware,হার্ডওয়্যার,হার্ডওয়্যার,hardware
+W0088,noun,harmony ,সাদৃশ্য,সাদৃশ্য,shodrissho
+W0089,noun,hate,ঘৃণা,ঘৃণা,ghrina
+W0090,noun,haven,আশ্রয়স্থল,আশ্রয়স্থল,asroysthol
+W0091,noun,health,স্বাস্থ্য,স্বাস্থ্য,shastho
+W0092,noun,heart,হৃদয়,হৃদয়,hridoy
+W0093,noun,honor,সম্মান,সম্মান,shomman
+W0094,noun,hope,আশা,আশা,asha
+W0095,noun,horizon ,দিগন্ত,দিগন্ত,digonto
+W0096,noun,hospital,হাসপাতাল,হাসপাতাল,hashpatal
+W0097,noun,house,বাড়ি,বাড়ি,bari
+W0098,noun,idea,ধারণা,ধারণা,dharona
+W0099,noun,illusion,বিভ্রম,বিভ্রম,bibhrom
+W0100,noun,insight,অন্তর্দৃষ্টি,অন্তর্দৃষ্টি,ontordrishti
+W0101,noun,intelligence,বুদ্ধিমত্তা,বুদ্ধিমত্তা,budhhimotta
+W0102,noun,internet,ইন্টারনেট,ইন্টারনেট,internet
+W0103,noun,island,দ্বীপ,দ্বীপ,dip
+W0104,noun,jargon,পরিভাষা,পরিভাষা,poribhasha
+W0105,noun,journey,যাত্রা,যাত্রা,jatra
+W0106,noun,justice,ন্যায়বিচার,ন্যায়বিচার,naybichar
+W0107,noun,key,চাবি,চাবি,chabi
+W0108,noun,keyboard,কীবোর্ড,কীবোর্ড,keyboard
+W0109,noun,king,রাজা,রাজা,raja
+W0110,noun,knack,দক্ষতা,দক্ষতা,dokkhota
+W0111,noun,knowledge,জ্ঞান,জ্ঞান,gyan
+W0112,noun,labyrinth,গোলকধাঁধা,গোলকধাঁধা,golokdhadha
+W0113,noun,lament ,বিলাপ,বিলাপ,bilap
+W0114,noun,lamp,বাতি,বাতি,bati
+W0115,noun,language,ভাষা,ভাষা,bhasha
+W0116,noun,laptop,ল্যাপটপ,ল্যাপটপ,laptop
+W0117,noun,laughter,হাসি,হাসি,hashi
+W0118,noun,legacy ,উত্তরাধিকার,উত্তরাধিকার,uttoradhikar
+W0119,noun,letter,চিঠি,চিঠি,chithi
+W0120,noun,lie,মিথ্যা,মিথ্যা,mittha
+W0121,noun,life,জীবন,জীবন,jibon
+W0122,noun,light,আলো,আলো,alo
+W0123,noun,lightning,বজ্রপাত,বজ্রপাত,bojropat
+W0124,noun,lion,সিংহ,সিংহ,shingho
+W0125,noun,love,প্রেম,প্রেম,prem
+W0126,noun,luster,দীপ্তি,দীপ্তি,dipti
+W0127,noun,market,বাজার,বাজার,bazar
+W0128,noun,meadow ,তৃণভূমি,তৃণভূমি,trinobhumi
+W0129,noun,medicine,ওষুধ,ওষুধ,oshudh
+W0130,noun,melancholy ,বিষাদ,বিষাদ,bishad
+W0131,noun,memory,স্মৃতি,স্মৃতি,sriti
+W0132,noun,menu,খাদ্যতালিকা,খাদ্যতালিকা,khaddotalika
+W0133,noun,mind,মন,মন,mon
+W0134,noun,miracle,অলৌকিক,অলৌকিক,oloukik
+W0135,noun,mirage,মরীচিকা,মরীচিকা,morichika
+W0136,noun,mirror,আয়না,আয়না,ayna
+W0137,noun,mist,কুয়াশা,কুয়াশা,kuasha
+W0138,noun,moon,চাঁদ,চাঁদ,chad
+W0139,noun,mosque,মসজিদ,মসজিদ,moshjid
+W0140,noun,mother,মা,মা,maa
+W0141,noun,mountain,পাহাড়,পাহাড়,pahar
+W0142,noun,mouse,ইঁদুর,ইঁদুর,idur
+W0143,noun,music,সঙ্গীত,সঙ্গীত,shongeet
+W0144,noun,mystery ,রহস্য,রহস্য,rohossho
+W0145,noun,nexus,বন্ধন,বন্ধন,badhon
+W0146,noun,noise,গোলমাল,গোলমাল,golmal
+W0147,noun,nostalgia ,স্মৃতিকাতরতা,স্মৃতিকাতরতা,sritikatorota
+W0148,noun,nurse,নার্স,নার্স,nurse
+W0149,noun,ocean,মহাসাগর,মহাসাগর,mohashagor
+W0150,noun,opportunity,সুযোগ,সুযোগ,shujog
+W0151,noun,oracle,প্রত্যাদেশ,প্রত্যাদেশ,prottadesh
+W0152,noun,orbit,কক্ষপথ,কক্ষপথ,kokkhopoth
+W0153,noun,painting,পেইন্টিং,পেইন্টিং,painting
+W0154,noun,palace,প্রাসাদ,প্রাসাদ,proshad
+W0155,noun,paradox,কূটাভাস,কূটাভাস,kutabhash
+W0156,noun,passion,আবেগ,আবেগ,abeg
+W0157,noun,passion ,আকর্ষণ,আকর্ষণ,akorshon
+W0158,noun,past,অতীত,অতীত,otit
+W0159,noun,path,পথ,পথ,poth
+W0160,noun,peace,শান্তি,শান্তি,shanti
+W0161,noun,petal,পাপড়ি,পাপড়ি,papri
+W0162,noun,phantom,মায়ামূর্তি,মায়ামূর্তি,mayamurti
+W0163,noun,phoenix ,পুনর্জন্ম,পুনর্জন্ম,punorjonmo
+W0164,noun,phone,মোবাইল,মোবাইল,mobile
+W0165,noun,planet,গ্রহ,গ্রহ,groho
+W0166,noun,poem,কবিতা,কবিতা,kobita
+W0167,noun,poverty,দারিদ্র্য,দারিদ্র্য,doridro
+W0168,noun,power,ক্ষমতা,ক্ষমতা,khomota
+W0169,noun,present,বর্তমান,বর্তমান,bortoman
+W0170,noun,problem,সমস্যা,সমস্যা,shomoshha
+W0171,noun,puzzle,ধাঁধা,ধাঁধা,dhadha
+W0172,noun,queen,রানী,রানী,rani
+W0173,noun,question,প্রশ্ন,প্রশ্ন,proshno
+W0174,noun,quiver,কাঁপুনি,কাঁপুনি,kapuni
+W0175,noun,rain,বৃষ্টি,বৃষ্টি,brishti
+W0176,noun,rainbow,রংধনু,রংধনু,rongdhonu
+W0177,noun,rapture,আনন্দোন্মাদনা,আনন্দোন্মাদনা,anondounmadona
+W0178,noun,reflection,প্রতিফলন,প্রতিফলন,protifolon
+W0179,noun,relic,অবশেষ,অবশেষ,oboshesh
+W0180,noun,river,নদী,নদী,nodi
+W0181,noun,road,রাস্তা,রাস্তা,rasta
+W0182,noun,sadness,দুঃখ,দুঃখ,dukkho
+W0183,noun,school,স্কুল,স্কুল,school
+W0184,noun,screen,স্ক্রিন,স্ক্রিন,screen
+W0185,noun,sea,সমুদ্র,সমুদ্র,shomudro
+W0186,noun,secret,গোপন,গোপন,gopon
+W0187,noun,sentence,বাক্য,বাক্য,bakko
+W0188,noun,serenity ,প্রশান্তি,প্রশান্তি,proshanti
+W0189,noun,shadow,ছায়া,ছায়া,chhaya
+W0190,noun,shame,লজ্জা,লজ্জা,lojja
+W0191,noun,silence,নীরবতা,নীরবতা,nirobota
+W0192,noun,sister,বোন,বোন,bon
+W0193,noun,skill,দক্ষতা,দক্ষতা,dokkhota
+W0194,noun,sky,আকাশ ,আকাশ ,akash
+W0195,noun,smile,হাসি,হাসি,hashi
+W0196,noun,software,সফটওয়্যার,সফটওয়্যার,software
+W0197,noun,solitude ,নির্জনতা,নির্জনতা,nirjonota
+W0198,noun,solution,সমাধান,সমাধান,somadhan
+W0199,noun,song,গান,গান,gan
+W0200,noun,soul,আত্মা,আত্মা,atta
+W0201,noun,spectrum,বর্ণালী,বর্ণালী,bornali
+W0202,noun,star,তারকা,তারকা,taroka
+W0203,noun,station,স্টেশন,স্টেশন,station
+W0204,noun,story,গল্প,গল্প,golpno
+W0205,noun,student,ছাত্র,ছাত্র,chatro
+W0206,noun,success,সাফল্য,সাফল্য,shafollo
+W0207,noun,summit ,শিখর,শিখর,shikhor
+W0208,noun,sun,সূর্য,সূর্য,shurjo
+W0209,noun,surprise,আশ্চর্য,আশ্চর্য,ashchorjo
+W0210,noun,table,টেবিল,টেবিল,table
+W0211,noun,talent,প্রতিভা,প্রতিভা,protibha
+W0212,noun,teacher,শিক্ষক,শিক্ষক,shikkhok
+W0213,noun,tear,বিছিন্ন করা,বিছিন্ন করা,bichhinno kora
+W0214,noun,temple,মন্দির,মন্দির,mondir
+W0215,noun,tenderness ,কোমলতা,কোমলতা,komolota
+W0216,noun,thought,চিন্তা,চিন্তা,chinta
+W0217,noun,threshold,সীমা,সীমা,shima
+W0218,noun,thunder,বজ্র,বজ্র,bojro
+W0219,noun,tiger,বাঘ,বাঘ,bagh
+W0220,noun,time,সময়,সময়,somoi
+W0221,noun,torment ,যন্ত্রণা,যন্ত্রণা,jontrona
+W0222,noun,tradition,ঐতিহ্য,ঐতিহ্য,oitijjho
+W0223,noun,train,ট্রেন,ট্রেন,train
+W0224,noun,treasure,ধন,ধন,dhan
+W0225,noun,tree,গাছ,গাছ,gach
+W0226,noun,truth,সত্য,সত্য,satta
+W0227,noun,twilight ,গোধূলি,গোধূলি,godhuli
+W0228,noun,undertone,নিম্ন স্বর,নিম্ন স্বর,nimno shor
+W0229,noun,universe,মহাবিশ্ব,মহাবিশ্ব,mahabissha
+W0230,noun,university ,বিশ্ববিদ্যালয় ,বিশ্ববিদ্যালয়,bisshobiddhaloy
+W0231,noun,valley,উপত্যকা,উপত্যকা,upottoka
+W0232,noun,victory,বিজয়,বিজয়,bijoy
+W0233,noun,village,গ্রাম,গ্রাম,gram
+W0234,noun,voice,ভয়েস,ভয়েস,voice
+W0235,noun,void,শূন্যতা,শূন্যতা,shunnota
+W0236,noun,vortex,ঘূর্ণি,ঘূর্ণি,ghurni
+W0237,noun,war,যুদ্ধ,যুদ্ধ,juddho
+W0238,noun,water,পানি,পানি,pani
+W0239,noun,waterfall,জলপ্রপাত,জলপ্রপাত,jolpropat
+W0240,noun,wealth,সম্পদ,সম্পদ,shompod
+W0241,noun,whim,বাতিক,বাতিক,batik
+W0242,noun,wind,বায়ু,বায়ু,bayu
+W0243,noun,window,জানালা,জানালা,janala
+W0244,noun,wisdom,বুদ্ধি,বুদ্ধি,bhuddi
+W0245,noun,wisdom ,প্রজ্ঞা,প্রজ্ঞা,progga
+W0246,noun,wonder,আশ্চর্য,আশ্চর্য,ashchorjo
+W0247,noun,word,শব্দ,শব্দ,shobdo
+W0248,noun,yearning ,আকুলতা,আকুলতা,akulota
+W0249,noun,yield,ফলন,ফলন,folon
+W0250,noun,zenith,সুবিন্দু,সুবিন্দু,shubindo
+W0251,verb,abolish,বাতিল করা,বাতিল করা,batila kora
+W0252,verb,accelerate,ত্বরান্বিত করা,ত্বরান্বিত করা,torannito kora
+W0253,verb,accumulate,সঞ্চয় করা,সঞ্চয় করা,shonchoy kora
+W0254,verb,ache,ব্যাথা,ব্যাথা,betha
+W0255,verb,acquire,অর্জন করা,অর্জন করা,orjon kora
+W0256,verb,activate,সক্রিয় করা,সক্রিয় করা,shokriyo kora
+W0257,verb,adapt,মানিয়ে নেওয়া,মানিয়ে নেওয়া,maniye neoya
+W0258,verb,add,যোগ করা,যোগ করা,jog kora
+W0259,verb,adjust,সমন্বয় করা,সমন্বয় করা,shomonnoi kora
+W0260,verb,admire,প্রশংসা করা,প্রশংসা করা,proshongsha kora
+W0261,verb,aim,লক্ষ্য করা,লক্ষ্য করা,lokkho kora
+W0262,verb,align,সামঞ্জস্য করা,সামঞ্জস্য করা,shamonnjossho kora
+W0263,verb,allocate,বণ্টন করা,বণ্টন করা,bonton kora
+W0264,verb,amplify,বৃদ্ধি করা,বৃদ্ধি করা,briddhi kora
+W0265,verb,analyze,বিশ্লেষণ করা,বিশ্লেষণ করা,bishleshon kora
+W0266,verb,announce,ঘোষণা করা,ঘোষণা করা,ghoshona kora
+W0267,verb,anticipate,প্রত্যাশা করা,প্রত্যাশা করা,prottasha kora
+W0268,verb,arrange,ব্যবস্থা করা,ব্যবস্থা করা,bebostha kora
+W0269,verb,ascend,উঠা,উঠা,utha
+W0270,verb,assess,মূল্য নির্ধারণ করা,মূল্য নির্ধারণ করা,mullo nirdharon kora
+W0271,verb,assist,সহযোগিতা করা,সহযোগিতা করা,shohojogita kora
+W0272,verb,astonish,বিস্মিত ,বিস্মিত ,bishhito
+W0273,verb,astride,ঘোড়ায় চড়ে,ঘোড়ায় চড়ে,ghorae chore
+W0274,verb,attach,সংযুক্ত করা,সংযুক্ত করা,shongjukto kora
+W0275,verb,attempt,চেষ্টা করা,চেষ্টা করা,chesta kora
+W0276,verb,authorize,অনুমোদন করা,অনুমোদন করা,onumodon kora
+W0277,verb,automate,স্বয়ংক্রিয় করা,স্বয়ংক্রিয় করা,shoyongkriyo kora
+W0278,verb,backup,সংরক্ষণ করা,সংরক্ষণ করা,shongrokkhon kora
+W0279,verb,bake,বেক করা,বেক করা,bake kora
+W0280,verb,balance,ত্তজন করা,ত্তজন করা,ojon kora
+W0281,verb,beckon,ইশারা,ইশারা,ishara
+W0282,verb,befuddle,বিভ্রান্ত করা,বিভ্রান্ত করা,bivranto kora
+W0283,verb,benchmark,মানদণ্ড নির্ধারণ করা,মানদণ্ড নির্ধারণ করা,mandondo nirdharon kora
+W0284,verb,bend,বাঁকানো,বাঁকানো,bakano
+W0285,verb,bite,কামড়ানো,কামড়ানো,kamrano
+W0286,verb,blink,পলক ফেলা,পলক ফেলা,polok fela
+W0287,verb,bloom,ফুটা,ফুটা,fota
+W0288,verb,blossom ,পুষ্প,পুষ্প,pushpo
+W0289,verb,boil,ফোটানো,ফোটানো,fotano
+W0290,verb,boost,বৃদ্ধি করা,বৃদ্ধি করা,briddhi kora
+W0291,verb,breeze,হাওয়া,হাওয়া,hawa
+W0292,verb,build,নির্মাণ করা,নির্মাণ করা,nirman kora
+W0293,verb,burst,ফেটে যাওয়া,ফেটে যাওয়া,fete jaowa
+W0294,verb,buy,কেনা,কেনা,kena
+W0295,verb,bypass,অবজ্ঞা করা,অবজ্ঞা করা,obogga kora
+W0296,verb,calculate,হিসাব করা,হিসাব করা,hishab kora
+W0297,verb,calibrate,সমন্বয় করা,সমন্বয় করা,shomonnoi kora
+W0298,verb,call,ডাকা,ডাকা,daka
+W0299,verb,camp,তাবু খাটান,তাবু খাটান,tabu khatano
+W0300,verb,captivate,মুগ্ধ করা,মুগ্ধ করা,mugdho kora
+W0301,verb,care,যত্ন নেওয়া,যত্ন নেওয়া,jotno neoya
+W0302,verb,carry,বহন করা,বহন করা,bohon kora
+W0303,verb,categorize,শ্রেণীবদ্ধ করা,শ্রেণীবদ্ধ করা,shreniboddho kora
+W0304,verb,centralize,কেন্দ্রীভূত করা,কেন্দ্রীভূত করা,kendribhooto kora
+W0305,verb,change,পরিবর্তন করা,পরিবর্তন করা,poriborton kora
+W0306,verb,checkpoint,চেকপয়েন্ট,চেকপয়েন্ট,checkpoint
+W0307,verb,cherish,লালন,লালন ,lalon
+W0308,verb,chew,চিবানো,চিবানো,chibano
+W0309,verb,choose,নির্বাচন করা,নির্বাচন করা,nirbachon kora
+W0310,verb,clap,তালি দেওয়া,তালি দেওয়া,tali deoya
+W0311,verb,clarify,স্পষ্ট করা,স্পষ্ট করা,sposto kora
+W0312,verb,clash,ধাক্কা খাত্তয়া,ধাক্কা খাত্তয়া,dhakka khawa
+W0313,verb,climb,আরোহন করা,আরোহন করা,ahoron kora
+W0314,verb,close,বন্ধ,বন্ধ,bondho kora
+W0315,verb,cluster,গুচ্ছবদ্ধ করা,গুচ্ছবদ্ধ করা,gucchoboddho kora
+W0316,verb,coerce,জবরদস্তি,জবরদস্তি,jobordoshti
+W0317,verb,collaborate,সহযোগিতা করা,সহযোগিতা করা,shohojogita kora
+W0318,verb,come ,আশা,আশা,asha
+W0319,verb,communicate,যোগাযোগ করা,যোগাযোগ করা,jogajog kora
+W0320,verb,compare,তুলনা করা,তুলনা করা,tulona kora
+W0321,verb,compile,সঙ্কলন করা,সঙ্কলন করা,shonkolon kora
+W0322,verb,complain,অভিযোগ করা,অভিযোগ করা,obhijog kora
+W0323,verb,compose,রচনা,রচনা,rochona
+W0324,verb,compress,সংকুচিত করা,সংকুচিত করা,shongkuchito kora
+W0325,verb,compute,গণনা করা,গণনা করা,gonona kora
+W0326,verb,conclude,উপসংহার করা,উপসংহার করা,uposhonghar kora
+W0327,verb,conduct,পরিচালনা করা,পরিচালনা করা,porichalona kora
+W0328,verb,confirm,নিশ্চিত করা,নিশ্চিত করা,nischit kora
+W0329,verb,conquer ,জিতা,জিতা,jita
+W0330,verb,construct,গঠন করা,গঠন করা,gothon kora
+W0331,verb,contribute,অবদান রাখা,অবদান রাখা,obodan rakha
+W0332,verb,convince,বোঝানো,বোঝানো,bojhano
+W0333,verb,cook,রান্না করা,রান্না করা,ranna kora
+W0334,verb,correct,সংশোধন করা,সংশোধন করা,shongshodhon kora
+W0335,verb,count,গণনা করা,গণনা করা,gonona kora
+W0336,verb,crawl,হামাগুড়ি দেওয়া,হামাগুড়ি দেওয়া,hamaguri deoya
+W0337,verb,create,তৈরি করা,তৈরি করা,toiri kora
+W0338,verb,crumble,চূর্ণবিচূর্ণ,চূর্ণবিচূর্ণ,churnobichurno
+W0339,verb,cut,কাটা,কাটা,kata
+W0340,verb,dash,হানাহানি,হানাহানি,hanahani
+W0341,verb,debug,ত্রুটি নির্ণয় করা,ত্রুটি নির্ণয় করা,truti nirnoy kora
+W0342,verb,decide,সিদ্ধান্ত নেওয়া,সিদ্ধান্ত নেওয়া,shiddhanto neoya
+W0343,verb,decode,পাঠোদ্ধার করা,পাঠোদ্ধার করা,pathoddhar kora
+W0344,verb,decrypt,ডিক্রিপ্ট করা,ডিক্রিপ্ট করা,decrypt kora
+W0345,verb,delay,বিলম্ব করা,বিলম্ব করা,bilombo kora
+W0346,verb,delegate,দায়িত্ব অর্পণ করা,দায়িত্ব অর্পণ করা,daiyetto orpon kora
+W0347,verb,deliver,সরবরাহ করা,সরবরাহ করা,shorboraho kora
+W0348,verb,demonstrate,প্রদর্শন করা,প্রদর্শন করা,prodorshon kora
+W0349,verb,deploy,মোতায়েন করা,মোতায়েন করা,motayen kora
+W0350,verb,deprecate,অপ্রচলিত ঘোষণা করা,অপ্রচলিত ঘোষণা করা,oprocholito ghoshona kora
+W0351,verb,derive,আহরণ করা,আহরণ করা,ahoron kora
+W0352,verb,design,নকশা করা,নকশা করা,noksha kora
+W0353,verb,detect,সনাক্ত করা,সনাক্ত করা,shonakto kora
+W0354,verb,dig,খনন করা,খনন করা,khonon kora
+W0355,verb,dissipate,নষ্ট করা,নষ্ট করা,noshto kora
+W0356,verb,dissolve ,গুলা,গুলা,gula
+W0357,verb,dive,ডুব দেওয়া,ডুব দেওয়া,dub deoya
+W0358,verb,document,নথিপত্র,নথিপত্র,nothipotro
+W0359,verb,drench ,ভিজানো,ভিজানো,bhijano
+W0360,verb,drift,প্রবাহিত,প্রবাহিত,probahito
+W0361,verb,drink,পান করা,পান করা,pan kora
+W0362,verb,drive,চালান,চালান,chalano
+W0363,verb,drop,ফেলে দেওয়া,ফেলে দেওয়া,fele deoya
+W0364,verb,dust,ধুলা ঝাড়া,ধুলা ঝাড়া,dhula jhara
+W0365,verb,dwindle,হ্রাস পাত্তয়া,হ্রাস পাত্তয়া,hrash pawa
+W0366,verb,eat,খাওয়া,খাওয়া,khawa
+W0367,verb,echo,প্রতিধ্বনি,প্রতিধ্বনি,protiddhoni
+W0368,verb,eclipse ,অন্ধকার করা,অন্ধকার করা,ondhokar kora
+W0369,verb,elicit,প্রকাশ করা,প্রকাশ করা,porkash kora
+W0370,verb,embrace,আলিঙ্গন,আলিঙ্গন,allinggon
+W0371,verb,encrypt,এনক্রিপ্ট করা,এনক্রিপ্ট করা,encrypt kora
+W0372,verb,endure,সহ্য করা,সহ্য করা,shojjo kora
+W0373,verb,enter,প্রবেশ করা,প্রবেশ করা,probesh kora
+W0374,verb,evade,এড়ানো,এড়ানো,erano
+W0375,verb,evaluate,মূল্যায়ন করা,মূল্যায়ন করা,mulyayon kora
+W0376,verb,execute,কার্যকর করা,কার্যকর করা,karjokor kora
+W0377,verb,exit,বের হওয়া,বের হওয়া,ber howa
+W0378,verb,explain,ব্যাখ্যা করা,ব্যাখ্যা করা,bakkha kora
+W0379,verb,explode,বিস্ফোরণ,বিস্ফোরণ,bishforon
+W0380,verb,fade,বিবর্ণ,বিবর্ণ,biboron
+W0381,verb,finish,শেষ করা,শেষ করা,shes kora
+W0382,verb,fix,মেরামত করা,মেরামত করা,meramot kora
+W0383,verb,fluctuate,ওঠানামা করা,ওঠানামা করা,othanama kora
+W0384,verb,fold,ভাঁজ করা,ভাঁজ করা,bhaj kora
+W0385,verb,forge,জাল করা,জাল করা,jal kora
+W0386,verb,forget,ভুলে যাওয়া,ভুলে যাওয়া,bhule jawa
+W0387,verb,formulate,প্রণয়ন করা,প্রণয়ন করা,pronoyon kora
+W0388,verb,garner,সংগ্রহ করা,সংগ্রহ করা,shongroho kora
+W0389,verb,gleam,জ্বলা,জ্বলা,jola
+W0390,verb,glow,জ্বলা,জ্বলা,jola
+W0391,verb,go,যাওয়া,যাওয়া,jawa
+W0392,verb,grasp,উপলব্ধি করা,উপলব্ধি করা,upolobdhi kora
+W0393,verb,grieve ,দু:খ পাত্তয়া,দু:খ পাত্তয়া,dukkho pawa
+W0394,verb,grip,আকড়ে ধরা,আকড়ে ধরা,akre dhora
+W0395,verb,guess,অনুমান করা,অনুমান করা,onuman kora
+W0396,verb,haunt,তাড়িয়ে বেড়ানো,তাড়িয়ে বেড়ানো,tariye berano
+W0397,verb,heal,আরোগ্য,আরোগ্য,aroggo
+W0398,verb,help,সাহায্য করা,সাহায্য করা,sahajjo kora
+W0399,verb,hinder,বাধা দেত্তয়া,বাধা দেত্তয়া,badha dewa
+W0400,verb,hold,ধরা,ধরা,dhora
+W0401,verb,hover,বিলম্ব করা,বিলম্ব করা,bilombo kora
+W0402,verb,hug,আলিঙ্গন করা,আলিঙ্গন করা,alingon kora
+W0403,verb,hunt,শিকার করা,শিকার করা,shikar kora
+W0404,verb,ignite,জ্বালানো,জ্বালানো,jalano
+W0405,verb,implement,বাস্তবায়ন করা,বাস্তবায়ন করা,bashtobayon kora
+W0406,verb,improve,উন্নতি করা,উন্নতি করা,unnoti kora
+W0407,verb,index,সূচিবদ্ধ করা,সূচিবদ্ধ করা,shuchiboddho kora
+W0408,verb,intensify,তীব্র করা,তীব্র করা,tibro kora
+W0409,verb,interpret,ব্যাখ্যা করা,ব্যাখ্যা করা,beykkha kora
+W0410,verb,join,যুক্ত হওয়া,যুক্ত হওয়া,jukto howa
+W0411,verb,jolt,নাড়া,নাড়া,nara
+W0412,verb,jump,লাফানো,লাফানো,lafano
+W0413,verb,justify,সমর্থন করা,সমর্থন করা,shomorthon kora
+W0414,verb,keep,রাখা,রাখা,rakha
+W0415,verb,kick,লাথি মারা,লাথি মারা,lathi mara
+W0416,verb,knead,পিষা,পিষা,pisha
+W0417,verb,kneel,হাঁটু গাড়া,হাঁটু গাড়া,hatu gara
+W0418,verb,knock,কড়া নাড়া,কড়া নাড়া,kora nara
+W0419,verb,learn,শেখা,শেখা,shekha
+W0420,verb,lift,তোলা,তোলা,tola
+W0421,verb,linger,দেরি করা,দেরি করা,deri kora
+W0422,verb,listen,শোনা,শোনা,sona
+W0423,verb,lock,তালা দেওয়া,তালা দেওয়া,tala deoya
+W0424,verb,log,বাধা দেত্তয়া,বাধা দেত্তয়া,badha deoya
+W0425,verb,melted,গলা,গলা,gola
+W0426,verb,mend,মেরামত করা,মেরামত করা,meramot kora
+W0427,verb,mesmerize,মন্ত্রমুগ্ধ করা,মন্ত্রমুগ্ধ করা,montromugdho kora
+W0428,verb,monitor,নজরদারি করা,নজরদারি করা,nojordari kora
+W0429,verb,move,সরানো,সরানো,shorano
+W0430,verb,name,নামকরণ করা,নামকরণ করা,namkoron kora
+W0431,verb,note,লিখে রাখা,লিখে রাখা,likhe rakha
+W0432,verb,nurture,পোষা,পোষা,posha
+W0433,verb,obey,মানা,মানা,mana
+W0434,verb,obliterate,ধ্বংস করা,ধ্বংস করা,dhongsho kora
+W0435,verb,open,খোলা,খোলা,khola
+W0436,verb,optimize,নিখুঁত করা,নিখুঁত করা,nikhut kora
+W0437,verb,oscillate,দুলা,দুলা,dula
+W0438,verb,overflow,প্লাবিত,প্লাবিত,plabito
+W0439,verb,paint,রং করা,রং করা,rong kora
+W0440,verb,parse,বিশ্লেষণ করা,বিশ্লেষণ করা,bishleshon kora
+W0441,verb,perceive,দর্শন করা,দর্শন করা,dorshon kora
+W0442,verb,plant,রোপণ করা,রোপণ করা,ropon kora
+W0443,verb,play,খেলা,খেলা,khela
+W0444,verb,point,ইঙ্গিত করা,ইঙ্গিত করা,ingit kora
+W0445,verb,press,চাপ দেওয়া,চাপ দেওয়া,chap deoya
+W0446,verb,provision,সরবরাহ নিশ্চিত করা,সরবরাহ নিশ্চিত করা,shorboraho nishchit kora
+W0447,verb,pull,টানা,টানা,tana
+W0448,verb,push,ধাক্কা দেওয়া,ধাক্কা দেওয়া,dhakka deoya
+W0449,verb,quench,নেভান,নেভান,nevano
+W0450,verb,query,অনুসন্ধান করা,অনুসন্ধান করা,onushondhan kora
+W0451,verb,radiate ,আলোক,আলোক,alok
+W0452,verb,raise,উঠানো,উঠানো,uthano
+W0453,verb,reach,পৌঁছানো,পৌঁছানো,pouchano
+W0454,verb,read,পড়া,পড়া,pora
+W0455,verb,rebel,বিদ্রোহ করা,বিদ্রোহ করা,bidroho kora
+W0456,verb,receive,গ্রহণ করা,গ্রহণ করা,grohon kora
+W0457,verb,refactor,পুনর্গঠন করা,পুনর্গঠন করা,punorgothon kora
+W0458,verb,remember,মনে রাখা,মনে রাখা,mone rakha
+W0459,verb,resist ,সহ্য করা,সহ্য করা,shojjho kora
+W0460,verb,retrieve,উদ্ধার করা,উদ্ধার করা,uddhar kora
+W0461,verb,reveal,প্রকাশ ,প্রকাশ ,prokash
+W0462,verb,revere,সম্মান করা,সম্মান করা,shomman kora
+W0463,verb,rollback,পূর্বাবস্থায় ফেরানো,পূর্বাবস্থায় ফেরানো,purbabosthay ferano
+W0464,verb,rule,শাসন করা,শাসন করা,shashon kora
+W0465,verb,run,দৌড়ানো,দৌড়ানো,dourano
+W0466,verb,rustle ,খচমচ্ করা,খচমচ্ করা,khochmoch kora
+W0467,verb,scale,ত্তজন করা,ত্তজন করা,ojon kora
+W0468,verb,schedule,সময় নির্ধারণ করা,সময় নির্ধারণ করা,somoy nirdharon kora
+W0469,verb,see,দেখা,দেখা,dekha
+W0470,verb,sell,বিক্রি করা,বিক্রি করা,bikri kora
+W0471,verb,send,পাঠানো,পাঠানো,pathano
+W0472,verb,share,ভাগ করা,ভাগ করা,vag kora
+W0473,verb,sleep,ঘুমান,ঘুমান,ghumano
+W0474,verb,speak,কথা বলা,কথা বলা,kotha bola
+W0475,verb,start,শুরু করা,শুরু করা,shuru kora
+W0476,verb,stifle,দমবন্ধ করা,দমবন্ধ করা,dombondho kora
+W0477,verb,stream,প্রবাহিত করা,প্রবাহিত করা,probahito kora
+W0478,verb,strike,মারা,মারা,mara
+W0479,verb,surge,ঢেউ ওঠা,ঢেউ ওঠা,dheu utha
+W0480,verb,surrender,আত্মসমর্পণ,আত্মসমর্পণ ,attoshomorpon
+W0481,verb,sync,সমন্বয় করা,সমন্বয় করা,shomonnoi kora
+W0482,verb,tackle,মোকাবেলা করা ,মোকাবেলা করা ,mokabela kora
+W0483,verb,teach,পড়ানো,পড়ানো,porano
+W0484,verb,test,পরীক্ষা করা,পরীক্ষা করা,porikkha kora
+W0485,verb,think,ভাবা,ভাবা,bhaba
+W0486,verb,throttle,গতি সীমিত করা,গতি সীমিত করা,goti shimito kora
+W0487,verb,travel,যাত্রা,যাত্রা,jatra
+W0488,verb,tremble,কাঁপা,কাঁপা,kapa
+W0489,verb,understand,বোঝা,বোঝা,bojha
+W0490,verb,usher,উপস্থিত করা,উপস্থিত করা,uposthit kora
+W0491,verb,validate,যাচাই করা,যাচাই করা,jachai kora
+W0492,verb,vanish,বিলুপ্ত করা,বিলুপ্ত করা,bilupto kora
+W0493,verb,verify,প্রতিপাদন করা,প্রতিপাদন করা,protipadon kora
+W0494,verb,wait,অপেক্ষা করা,অপেক্ষা করা,opekkha kora
+W0495,verb,walk,হাঁটা,হাঁটা,hata
+W0496,verb,wane,ক্ষয়,ক্ষয়,khoy
+W0497,verb,watch,দেখা,দেখা,dekha
+W0498,verb,whisper,ফিসফিস ,ফিসফিস ,fishfish
+W0499,verb,write,লেখা,লেখা,lekha
+W0500,verb,yearn,আকাঙ্ক্ষা করা,আকাঙ্ক্ষা করা,akankha kora
+W0501,adjective,abrupt,হঠাৎ,হঠাৎ,hothat
+W0502,adjective,accurate,সঠিক,সঠিক,shothik
+W0503,adjective,adept,পারদর্শী,পারদর্শী,parodorshi
+W0504,adjective,affectionate,স্নেহময়,স্নেহময়,snehomoy
+W0505,adjective,agile,চটপটে,চটপটে,chotpote
+W0506,adjective,alluring,লোভনীয়,লোভনীয়,lobhoniyo
+W0507,adjective,amazing,অসাধারণ,অসাধারণ,oshadharon
+W0508,adjective,ancient,প্রাচীন,প্রাচীন,prachin
+W0509,adjective,angry,রাগান্বিত,রাগান্বিত,ragannito
+W0510,adjective,attractive,আকর্ষণীয়,আকর্ষণীয়,akorshoniyo
+W0511,adjective,austere,কঠোর,কঠোর,kothor
+W0512,adjective,azure,আকাশী,আকাশী,akashi
+W0513,adjective,bare,অনাবৃত,অনাবৃত,onabrito
+W0514,adjective,beautiful,সুন্দর,সুন্দর,shundor
+W0515,adjective,benevolent,পরোপকারী,পরোপকারী,poropokari
+W0516,adjective,bewitching,জাদুকর,জাদুকর,jadukor
+W0517,adjective,big,বড়,বড়,boro
+W0518,adjective,bitter,তিক্ত,তিক্ত,tikto
+W0519,adjective,bizarre,উদ্ভট,উদ্ভট,udbhot
+W0520,adjective,blazing,জ্বলজ্বলে,জ্বলজ্বলে,joljole
+W0521,adjective,blissful,আনন্দময়,আনন্দময়,anondomoy
+W0522,adjective,blunt,ভোঁতা,ভোঁতা,bhota
+W0523,adjective,brave,সাহসী,সাহসী,shahoshi
+W0524,adjective,bright,উজ্জ্বল,উজ্জ্বল,ujjol
+W0525,adjective,busy,ব্যস্ত,ব্যস্ত,besto
+W0526,adjective,calm,শান্ত,শান্ত,shanto
+W0527,adjective,captivating,মনোমুগ্ধকর,মনোমুগ্ধকর,monomugdhokor
+W0528,adjective,cheap,সস্তা,সস্তা,shoshta
+W0529,adjective,cheerful,প্রফুল্ল,প্রফুল্ল,profullo
+W0530,adjective,chimerical,কাল্পনিক,কাল্পনিক,kalponik
+W0531,adjective,clean,পরিষ্কার,পরিষ্কার,porishkar
+W0532,adjective,clumsy,আনাড়ি,আনাড়ি,anari
+W0533,adjective,coherent,সুসঙ্গত,সুসঙ্গত,shushongoto
+W0534,adjective,cold,ঠান্ডা,ঠান্ডা,thanda
+W0535,adjective,comic,হাস্যকর,হাস্যকর,hasshokor
+W0536,adjective,complex,জটিল,জটিল,jotil
+W0537,adjective,corrupt,দুর্নীতিগ্রস্ত,দুর্নীতিগ্রস্ত,durnitigrostho
+W0538,adjective,creative,সৃজনশীল,সৃজনশীল,srijonshil
+W0539,adjective,crispy,খাস্তা,খাস্তা,khasta
+W0540,adjective,crude,অশোধিত,অশোধিত,oshoddhito
+W0541,adjective,cruel ,নিষ্ঠুর,নিষ্ঠুর,nishthur
+W0542,adjective,cryptic,রহস্যময়,রহস্যময়,rohoshshomoy
+W0543,adjective,curious,কৌতূহলী,কৌতূহলী,koutoholi
+W0544,adjective,dangerous,বিপজ্জনক,বিপজ্জনক,bipodjonok
+W0545,adjective,dark,অন্ধকার,অন্ধকার,ondhokar
+W0546,adjective,deceitful,প্রতারক,প্রতারক,protarok
+W0547,adjective,delicate,সূক্ষ্ম,সূক্ষ্ম,shukkho
+W0548,adjective,demonic,পৈশাচিক,পৈশাচিক,poishachik
+W0549,adjective,detached,বিচ্ছিন্ন,বিচ্ছিন্ন,bichchinno
+W0550,adjective,dewy,শিশিরসিক্ত,শিশিরসিক্ত,shishirshikto
+W0551,adjective,diligent,পরিশ্রমী,পরিশ্রমী,porissromi
+W0552,adjective,dim,আবছা,আবছা,abcha
+W0553,adjective,dishonest,অসৎ,অসৎ,oshoth
+W0554,adjective,divine,ঐশ্বরিক,ঐশ্বরিক,oisshorik
+W0555,adjective,dominant,প্রভাবশালী,প্রভাবশালী,probhabshali
+W0556,adjective,drastic,প্রচণ্ড,প্রচণ্ড,prochondo
+W0557,adjective,dreary,দুঃসহ,দুঃসহ,duhshoho
+W0558,adjective,dry,শুকনো,শুকনো,shukno
+W0559,adjective,dulcet,মধুর,মধুর,modhur
+W0560,adjective,dumbfounded,হতবাক,হতবাক,hotobak
+W0561,adjective,ebullient,উচ্ছ্বসিত,উচ্ছ্বসিত,uchchoshito
+W0562,adjective,eloquent,অলঙ্কারপূর্ণ,অলঙ্কারপূর্ণ,olongkarpurno
+W0563,adjective,elusive,ছলনাময়,ছলনাময়,chholonamoy
+W0564,adjective,emotional,আবেগপ্রবণ,আবেগপ্রবণ,abegprobon
+W0565,adjective,empty,খালি,খালি,khali
+W0566,adjective,enthralling,দাসত্বাধীন,দাসত্বাধীন,dashottadhin
+W0567,adjective,ephemeral,ক্ষণস্থায়ী,ক্ষণস্থায়ী,khonosthayi
+W0568,adjective,esoteric,গুপ্ত,গুপ্ত,gupto
+W0569,adjective,eternal,চিরন্তন,চিরন্তন,chironton
+W0570,adjective,ethereal,অপার্থিব,অপার্থিব,oparthib
+W0571,adjective,expensive,দামী,দামী,dami
+W0572,adjective,faded,ম্লান,ম্লান,mlan
+W0573,adjective,famous,বিখ্যাত,বিখ্যাত,bikhyato
+W0574,adjective,fast,দ্রুত,দ্রুত,dhruto
+W0575,adjective,fat,মোটা,মোটা,mota
+W0576,adjective,fertile,উর্বর,উর্বর,urbor
+W0577,adjective,fickle,চঞ্চল,চঞ্চল,chonchol
+W0578,adjective,flavorful,স্বাদযুক্ত,স্বাদযুক্ত,shadjukto
+W0579,adjective,flawless,নিশ্ছিদ্র,নিশ্ছিদ্র,nichiddro
+W0580,adjective,flexible,নমনীয়,নমনীয়,nomoniyo
+W0581,adjective,foggy,কুয়াশায় ঢাকা,কুয়াশায় ঢাকা,kuwashae dhaka
+W0582,adjective,fragile,ভঙ্গুর,ভঙ্গুর,bhangur
+W0583,adjective,free,ফাঁকা,ফাঁকা,faka
+W0584,adjective,fresh,তাজা,তাজা,taja
+W0585,adjective,friendly,বন্ধুত্বপূর্ণ,বন্ধুত্বপূর্ণ,bondhuttopurno
+W0586,adjective,full,সম্পূর্ণ,সম্পূর্ণ,shompurno
+W0587,adjective,fully,পূর্ণ,পূর্ণ,purno
+W0588,adjective,generous,উদার,উদার,udar
+W0589,adjective,gentle,মৃদু,মৃদু,mridu
+W0590,adjective,genuine,প্রকৃত,প্রকৃত,prokkrito
+W0591,adjective,gloomy,অন্ধকারময়,অন্ধকারময়,ondhokarmoy
+W0592,adjective,golden,সুবর্ণ,সুবর্ণ,shuborno
+W0593,adjective,graceful,সুতনু,সুতনু,shutonu
+W0594,adjective,grim,ভয়ানক,ভয়ানক,bhoyanok
+W0595,adjective,halcyon,শান্তিপূর্ণ,শান্তিপূর্ণ,shantipurno
+W0596,adjective,half,অর্ধেক,অর্ধেক,ordhek
+W0597,adjective,happy,সুখী,সুখী,shukhi
+W0598,adjective,hard,কঠিন,কঠিন,kothin
+W0599,adjective,harsh,কঠোর,কঠোর,kothor
+W0600,adjective,hasty,তাড়াহুড়ো,তাড়াহুড়ো,tarahuro
+W0601,adjective,haunting,ভুতুড়ে,ভুতুড়ে,bhuture
+W0602,adjective,healthy,সুস্থ,সুস্থ,shustho
+W0603,adjective,heavy,ভারী,ভারী,bhari
+W0604,adjective,hidden,লুকানো,লুকানো,lukano
+W0605,adjective,hollow,ফাঁপা,ফাঁপা,fapa
+W0606,adjective,honest,সৎ,সৎ,shoth
+W0607,adjective,hot,গরম,গরম,gorom
+W0608,adjective,hungry,ক্ষুধার্ত,ক্ষুধার্ত,khudartho
+W0609,adjective,idyllic,স্বর্গীয়,স্বর্গীয়,shorgiyo
+W0610,adjective,illusory,মায়াময়,মায়াময়,mayamoy
+W0611,adjective,impatient,অধৈর্য,অধৈর্য,odhorjo
+W0612,adjective,impeccable,নিখুঁত,নিখুঁত,nikhut
+W0613,adjective,imperfect,অসম্পূর্ণ,অসম্পূর্ণ,oshompurno
+W0614,adjective,incorrect,ভুল,ভুল,bhul
+W0615,adjective,inevitable,অনিবার্য,অনিবার্য,onibarjo
+W0616,adjective,infinite,অসীম,অসীম,oshim
+W0617,adjective,intense,তীব্র,তীব্র,tibro
+W0618,adjective,irksome,বিরক্তিকর,বিরক্তিকর,biroktikor
+W0619,adjective,jaded,ক্লান্ত,ক্লান্ত,klanto
+W0620,adjective,jealous,ঈর্ষান্বিত,ঈর্ষান্বিত,irshannito
+W0621,adjective,jejune,উপবাস,উপবাস,upobash
+W0622,adjective,jubilant,উল্লাস,উল্লাস,ullash
+W0623,adjective,keen,প্রখর,প্রখর,prokhor
+W0624,adjective,lazy,অলস,অলস,olosh
+W0625,adjective,literal,আক্ষরিক,আক্ষরিক,akkhorik
+W0626,adjective,loyal,বিশ্বস্ত,বিশ্বস্ত,bishshostho
+W0627,adjective,lucky,ভাগ্যবান,ভাগ্যবান,bhaggoyoban
+W0628,adjective,lugubrious,শোকার্ত,শোকার্ত,shokarto
+W0629,adjective,luminous,উজ্জ্বল,উজ্জ্বল,ujjol
+W0630,adjective,magical,মায়াবী,মায়াবী,mayabi
+W0631,adjective,malevolent,দুষ্ট,দুষ্ট,dushtu
+W0632,adjective,meek,নম্র,নম্র,nomro
+W0633,adjective,mellifluous,সুমিষ্ট,সুমিষ্ট,shumishti
+W0634,adjective,mellow,মৃদু,মৃদু,mridu
+W0635,adjective,mesmerizing,মন্ত্রমুগ্ধকর,মন্ত্রমুগ্ধকর,montromugdhokor
+W0636,adjective,metaphorical,রূপক,রূপক,rupok
+W0637,adjective,modern,আধুনিক,আধুনিক,adhunik
+W0638,adjective,mundane,জাগতিক,জাগতিক,jagotik
+W0639,adjective,narrow,সংকীর্ণ,সংকীর্ণ,shongkirno
+W0640,adjective,nebulous,ঝাপসা,ঝাপসা,jhapsha
+W0641,adjective,new,নতুন,নতুন,notun
+W0642,adjective,noisy,কোলাহলপূর্ণ,কোলাহলপূর্ণ,kolaholpurno
+W0643,adjective,notorious,কুখ্যাত,কুখ্যাত,kukheto
+W0644,adjective,novel,অভিনব,অভিনব,obhinobo
+W0645,adjective,obedient,বাধ্য,বাধ্য,baddho
+W0646,adjective,oblivious,অসচেতন,অসচেতন,oshocheton
+W0647,adjective,obscure,ঝাপসা,ঝাপসা,jhapsha
+W0648,adjective,obvious,স্পষ্ট,স্পষ্ট,spostho
+W0649,adjective,old,পুরানো,পুরানো,purano
+W0650,adjective,oneiric,স্বপ্নময়,স্বপ্নময়,shopnomoy
+W0651,adjective,opaque,অস্বচ্ছ,অস্বচ্ছ,oshoccho
+W0652,adjective,pale,ফ্যাকাশে,ফ্যাকাশে,fekashe
+W0653,adjective,patient,ধৈর্য,ধৈর্য,dhorjo
+W0654,adjective,perfect,নিখুঁত,নিখুঁত,nikhut
+W0655,adjective,pernicious,ক্ষতিকর,ক্ষতিকর,khotikor
+W0656,adjective,polite,ভদ্র,ভদ্র,bhodro
+W0657,adjective,poor,গরিব,গরিব,gorib
+W0658,adjective,pristine,আদিম,আদিম,adim
+W0659,adjective,productive,উৎপাদনশীল,উৎপাদনশীল,utpadonshilo
+W0660,adjective,profane,অপবিত্র,অপবিত্র,opobitro
+W0661,adjective,profound,গভীর,গভীর,gobhir
+W0662,adjective,quaint,মনোরম,মনোরম,monorom
+W0663,adjective,querulous,অভিযোগ,অভিযোগ,obhijog
+W0664,adjective,quiet,নীরব,নীরব,nirob
+W0665,adjective,quixotic,স্বপ্নবিলাসী,স্বপ্নবিলাসী,shopnobilashi
+W0666,adjective,radiant,উজ্জ্বল,উজ্জ্বল,ujjol
+W0667,adjective,rare,বিরল,বিরল,birol
+W0668,adjective,realistic,বাস্তবসম্মত,বাস্তবসম্মত,bastobshommoto
+W0669,adjective,rebellious,বিদ্রোহী,বিদ্রোহী,bidrohi
+W0670,adjective,reliable,নির্ভরযোগ্য,নির্ভরযোগ্য,nirbhorjoggo
+W0671,adjective,responsible,দায়িত্বশীল,দায়িত্বশীল,dayittoshil
+W0672,adjective,restless,অস্থির,অস্থির,osthir
+W0673,adjective,reticent,সংযত,সংযত,shongjoto
+W0674,adjective,rich,ধনী,ধনী,dhoni
+W0675,adjective,rigid,কঠোর,কঠোর,kothor
+W0676,adjective,robust,শক্তিশালী,শক্তিশালী,shoktishali
+W0677,adjective,rough,রুক্ষ,রুক্ষ,rukkho
+W0678,adjective,ruthless,নির্মম,নির্মম,nirmom
+W0679,adjective,safe,নিরাপদ,নিরাপদ,nirapod
+W0680,adjective,sagacious,বিচক্ষণ,বিচক্ষণ,bichokkhon
+W0681,adjective,salty,লবণাক্ত,লবণাক্ত,lobonakto
+W0682,adjective,sanguine,আশাবাদী,আশাবাদী,ashabadi
+W0683,adjective,sarcastic,ব্যঙ্গাত্মক,ব্যঙ্গাত্মক,byangattok
+W0684,adjective,scorching,তপ্ত,তপ্ত,topto
+W0685,adjective,sempiternal,চিরন্তন,চিরন্তন,chironton
+W0686,adjective,serendipitous,আকস্মিক,আকস্মিক,akoshshik
+W0687,adjective,shallow,অগভীর,অগভীর,ogobhir
+W0688,adjective,short,খাট,খাট,khato
+W0689,adjective,shy,লাজুক,লাজুক,lajuk
+W0690,adjective,sick,অসুস্থ,অসুস্থ,oshustho
+W0691,adjective,silvery,রূপালী,রূপালী,rupali
+W0692,adjective,simple,সহজ,সহজ,shohoj
+W0693,adjective,sincere,আন্তরিক,আন্তরিক,antorik
+W0694,adjective,sinister,অশুভ,অশুভ,oshubho
+W0695,adjective,slim,পাতলা,পাতলা,patla
+W0696,adjective,small,ছোট,ছোট,choto
+W0697,adjective,smooth,মসৃণ,মসৃণ,mosrin
+W0698,adjective,soft,নরম,নরম,norom
+W0699,adjective,solid,অনড়,অনড়,onor
+W0700,adjective,somber,বিষণ্ণ,বিষণ্ণ,bishonno
+W0701,adjective,sophisticated,অত্যাধুনিক,অত্যাধুনিক,otyadhonik
+W0702,adjective,sour,টক,টক,tok
+W0703,adjective,sparkling,ঝকঝকে,ঝকঝকে,jhokjhoke
+W0704,adjective,spicy,মশলাদার,মশলাদার,moshladar
+W0705,adjective,splendid,জমকাল,জমকাল,jomkalo
+W0706,adjective,stable,স্থিতিশীল,স্থিতিশীল,sthitishil
+W0707,adjective,sticky,আঠালো,আঠালো,athalo
+W0708,adjective,strong,শক্তিশালী,শক্তিশালী,shoktishali
+W0709,adjective,sturdy,বলিষ্ঠ,বলিষ্ঠ,bolishtho
+W0710,adjective,sublime,মহৎ,মহৎ,mohoth
+W0711,adjective,submissive,বিনয়ী,বিনয়ী,binoye
+W0712,adjective,subtle,সূক্ষ্ম,সূক্ষ্ম,shukkho
+W0713,adjective,superficial,অতিমাত্রায়,অতিমাত্রায়,otimatray
+W0714,adjective,surreal,পরাবাস্তব,পরাবাস্তব,porabastob
+W0715,adjective,sweet,মিষ্টি,মিষ্টি,mishti
+W0716,adjective,symbolic,প্রতীকী,প্রতীকী,protiki
+W0717,adjective,taciturn,অল্পভাষী,অল্পভাষী,olpobhashi
+W0718,adjective,tall,লম্বা,লম্বা,lomba
+W0719,adjective,tasty,সুস্বাদু,সুস্বাদু,shushshadu
+W0720,adjective,tedious,ক্লান্তিকর,ক্লান্তিকর,klantikor
+W0721,adjective,thirsty,তৃষ্ণার্ত,তৃষ্ণার্ত,trishnartho
+W0722,adjective,timeless,নিরবধি,নিরবধি,nirobdhi
+W0723,adjective,timid,ভীতু,ভীতু,bhitu
+W0724,adjective,tragic,দুঃখজনক,দুঃখজনক,dukkhojonok
+W0725,adjective,tranquil,শান্ত,শান্ত,shanto
+W0726,adjective,transparent,স্বচ্ছ,স্বচ্ছ,shoccho
+W0727,adjective,treacherous,বিশ্বাসঘাতক,বিশ্বাসঘাতক,bishshashghatok
+W0728,adjective,turbulent,অশান্ত,অশান্ত,oshanto
+W0729,adjective,ubiquitous,সর্বব্যাপী,সর্বব্যাপী,shorbobyepi
+W0730,adjective,uncanny,অদ্ভুত,অদ্ভুত,odbhut
+W0731,adjective,unlucky,দুর্ভাগা,দুর্ভাগা,durbhaggo
+W0732,adjective,unstable,অস্থিতিশীল,অস্থিতিশীল,osthitishil
+W0733,adjective,vague,অস্পষ্ট,অস্পষ্ট,ospostho
+W0734,adjective,versatile,বহুমুখী,বহুমুখী,bohumukhi
+W0735,adjective,vicarious,পরোক্ষ,পরোক্ষ,porokkho
+W0736,adjective,vivid,প্রাণবন্ত,প্রাণবন্ত,pranobonto
+W0737,adjective,voracious,পেটভরা,পেটভরা,petbhora
+W0738,adjective,wan,বিবর্ণ,বিবর্ণ,biborno
+W0739,adjective,warm,উষ্ণ,উষ্ণ,ushno
+W0740,adjective,weak,দুর্বল,দুর্বল,durbol
+W0741,adjective,whimsical,বাতিক,বাতিক,batik
+W0742,adjective,wide,প্রশস্ত,প্রশস্ত,proshostho
+W0743,adjective,wild,বন্য,বন্য,bonno
+W0744,adjective,wistful,চিন্তিত,চিন্তিত,chintito
+W0745,adjective,witty,চতুর,চতুর,chotur
+W0746,adjective,worthless,মূল্যহীন,মূল্যহীন,mullohin
+W0747,adjective,wretched,হতভাগা,হতভাগা,hotobhaga
+W0748,adjective,xenial,অতিথিপরায়ণ,অতিথিপরায়ণ,otithiporayon
+W0749,adjective,yearly,বার্ষিক,বার্ষিক,barshik
+W0750,adjective,zany,পাগলাটে,পাগলাটে,paglate
+W0751,adverb,abruptly,আকস্মিকভাবে,আকস্মিকভাবে,akoshshikvabe
+W0752,adverb,accurately,ঠিক,ঠিক,thik
+W0753,adverb,actively,সক্রিয়ভাবে,সক্রিয়ভাবে,shokriobhabe
+W0754,adverb,adversely,প্রতিকূলভাবে,প্রতিকূলভাবে,protikulbhabe
+W0755,adverb,again,আবার,আবার,abar
+W0756,adverb,almost,কাছাকাছি,কাছাকাছি,kachhakachhi
+W0757,adverb,alone,একা,একা,eka
+W0758,adverb,already,ইতিমধ্যে,ইতিমধ্যে,itimoddhe
+W0759,adverb,always,সবসময়,সবসময়,shobshomoy
+W0760,adverb,anguishedly,যন্ত্রণাময়ভাবে,যন্ত্রণাময়ভাবে,jontronamoybhabe
+W0761,adverb,anxiously,উদ্বিগ্নভাবে,উদ্বিগ্নভাবে,uddignobhabe
+W0762,adverb,apparently,স্পষ্টত,স্পষ্টত,sposhtoto
+W0763,adverb,ardently,প্রবলভাবে,প্রবলভাবে,probolbhabe
+W0764,adverb,automatically,স্বয়ংক্রিয়ভাবে,স্বয়ংক্রিয়ভাবে,shoyonkriobhabe
+W0765,adverb,backward,পিছনে,পিছনে,pichone
+W0766,adverb,badly,খারাপভাবে,খারাপভাবে,kharapbhabe
+W0767,adverb,barely,কেবল,কেবল,kebol
+W0768,adverb,basically,মূলত,মূলত,muloto
+W0769,adverb,beautifully,সুন্দরভাবে,সুন্দরভাবে,shundorbhabe
+W0770,adverb,blindly,অন্ধভাবে,অন্ধভাবে,ondhobhabe
+W0771,adverb,boldly,সাহসীভাবে,সাহসীভাবে,shahoshibhabe
+W0772,adverb,breathlessly,ঊর্ধ্বশ্বাসে,ঊর্ধ্বশ্বাসে,urdhoshashe
+W0773,adverb,briefly,সংক্ষেপে,সংক্ষেপে,shonkhepe
+W0774,adverb,brightly,উজ্জ্বলভাবে,উজ্জ্বলভাবে,ujjolbhabe
+W0775,adverb,briskly,দ্রুত,দ্রুত,druto
+W0776,adverb,busily,ব্যস্তভাবে,ব্যস্তভাবে,bestobhabe
+W0777,adverb,calmly,শান্তভাবে,শান্তভাবে,shantobhabe
+W0778,adverb,carefully,সাবধানে,সাবধানে,shabdhane
+W0779,adverb,cautiously,সতর্কতার সাথে,সতর্কতার সাথে,shotorkotar shathe
+W0780,adverb,certainly,নিশ্চিতভাবে,নিশ্চিতভাবে,nishchitbhabe
+W0781,adverb,cheerfully,প্রফুল্লভাবে,প্রফুল্লভাবে,profullobhabe
+W0782,adverb,clearly,স্পষ্টভাবে,স্পষ্টভাবে,sposhtobhabe
+W0783,adverb,cleverly,চতুরভাবে,চতুরভাবে,choturbhabe
+W0784,adverb,closely,ঘনিষ্ঠভাবে,ঘনিষ্ঠভাবে,ghonishtobhabe
+W0785,adverb,commonly,সাধারণভাবে,সাধারণভাবে,shadharonbhabe
+W0786,adverb,completely,সম্পূর্ণরূপে,সম্পূর্ণরূপে,shompurnorupe
+W0787,adverb,constantly,প্রতিনিয়ত,প্রতিনিয়ত,Protiniyoto
+W0788,adverb,correctly,সঠিকভাবে,সঠিকভাবে,shothikbhabe
+W0789,adverb,courageously,সাহসীভাবে,সাহসীভাবে,shahoshibhabe
+W0790,adverb,curiously,কৌতূহলীভাবে,কৌতূহলীভাবে,koutuholibhabe
+W0791,adverb,decently,নম্রভাবে,নম্রভাবে,nomrobhabe
+W0792,adverb,deeply,প্রগাঢ়ভাবে,প্রগাঢ়ভাবে,progarobhabe
+W0793,adverb,definitely,অবশ্যই,অবশ্যই,oboshhoi
+W0794,adverb,deliberately,ভেবেচিন্তে,ভেবেচিন্তে,bhebechinte
+W0795,adverb,delicately ,সূক্ষ্মভাবে,সূক্ষ্মভাবে,shukkhobhabe
+W0796,adverb,densely,গহনভাবে,গহনভাবে,gohonbhabe
+W0797,adverb,differently,ভিন্নভাবে,ভিন্নভাবে,bhinnobhabe
+W0798,adverb,directly,সরাসরি,সরাসরি,shorashori
+W0799,adverb,distinctly,স্পষ্টভাবে,স্পষ্টভাবে,sposhtobhabe
+W0800,adverb,doubtfully,অনিশ্চিতভাবে,অনিশ্চিতভাবে,onishchitbhabe
+W0801,adverb,down ,নিচে,নিচে,niche
+W0802,adverb,dramatically ,নাটকীয়ভাবে,নাটকীয়ভাবে,natokiyobhabe
+W0803,adverb,dreamily,স্বপ্নিলভাবে,স্বপ্নিলভাবে,shopnilbhabe
+W0804,adverb,eagerly,সাগ্রহে,সাগ্রহে,shagrohe
+W0805,adverb,early,আগে,আগে,age
+W0806,adverb,easily,সহজে,সহজে,sohoje
+W0807,adverb,effortlessly ,অনায়াসে,অনায়াসে,onayashe
+W0808,adverb,elegantly,মার্জিতভাবে,মার্জিতভাবে,marjitobhabe
+W0809,adverb,emotionally,আবেগগতভাবে,আবেগগতভাবে,abeggotobhabe
+W0810,adverb,enchantingly,মোহময়ভাবে,মোহময়ভাবে,mohomoybhabe
+W0811,adverb,endlessly,অবিরাম,অবিরাম,obiram
+W0812,adverb,energetically,উদ্যমীভাবে,উদ্যমীভাবে,uddomibhabe
+W0813,adverb,entirely,একেবারে,একেবারে,ekebare
+W0814,adverb,equally,সমানভাবে,সমানভাবে,shomanbhabe
+W0815,adverb,especially,বিশেষত,বিশেষত,bisheshoto
+W0816,adverb,eternally ,অনন্তকাল ,অনন্তকাল ,onontokal
+W0817,adverb,ethereally,অপার্থিবভাবে,অপার্থিবভাবে,oparthibbhabe
+W0818,adverb,evenly,সমানভাবে,সমানভাবে,shomanbhabe
+W0819,adverb,eventually,অবশেষে,অবশেষে,obosheshe
+W0820,adverb,exactly,ঠিকভাবে,ঠিকভাবে,thikbhabe
+W0821,adverb,exceedingly ,অত্যধিক,অত্যধিক,ottyodhik
+W0822,adverb,excitedly,উত্তেজিতভাবে,উত্তেজিতভাবে,uttejitobhabe
+W0823,adverb,extensively,বিস্তৃতভাবে,বিস্তৃতভাবে,bistritobhabe
+W0824,adverb,faintly,অলসভাবে,অলসভাবে,oloshbhabe
+W0825,adverb,faithfully,বিশ্বস্তভাবে,বিশ্বস্তভাবে,bishshostobhabe
+W0826,adverb,famously,বিখ্যাতভাবে,বিখ্যাতভাবে,bikhetobhabe
+W0827,adverb,far,দূরে,দূরে,dure
+W0828,adverb,fatally,মারাত্মকভাবে,মারাত্মকভাবে,marattokbhabe
+W0829,adverb,fiercely ,প্রচণ্ডভাবে,প্রচণ্ডভাবে,prochondobhabe
+W0830,adverb,fierily,অগ্নিময়ভাবে,অগ্নিময়ভাবে,ognimoybhabe
+W0831,adverb,firmly,দৃঢ়ভাবে,দৃঢ়ভাবে,drirobhabe
+W0832,adverb,fleetingly ,ক্ষণস্থায়ীভাবে,ক্ষণস্থায়ীভাবে,khonosthayibhabe
+W0833,adverb,fondly,সস্নেহে,সস্নেহে,shosnehe
+W0834,adverb,forlornly,অসহায়ভাবে,অসহায়ভাবে,oshohaybhabe
+W0835,adverb,fortunately,ভাগ্যক্রমে,ভাগ্যক্রমে,bhaggokrome
+W0836,adverb,forward,সামনে,সামনে,shamne
+W0837,adverb,freely,স্বাধীনভাবে,স্বাধীনভাবে,shadhinbhabe
+W0838,adverb,frequently,ঘনঘন,ঘনঘন,ghonoghono
+W0839,adverb,generally,সাধারণত,সাধারণত,shadharonoto
+W0840,adverb,generously,উদারভাবে,উদারভাবে,udarbhabe
+W0841,adverb,gently,মৃদুভাবে,মৃদুভাবে,mridubhabe
+W0842,adverb,gladly,সানন্দে,সানন্দে,shanonde
+W0843,adverb,gracefully,সুন্দরভাবে,সুন্দরভাবে,shundorbhabe
+W0844,adverb,gradually,ধীরে ধীরে,ধীরে ধীরে,dhire dhire
+W0845,adverb,greedily,সলোভে,সলোভে,sholove
+W0846,adverb,grossly,স্থূলভাবে,স্থূলভাবে,shthulobhabe
+W0847,adverb,happily,আনন্দের সাথে,আনন্দের সাথে,anonder shathe
+W0848,adverb,harshly,কঠোরভাবে,কঠোরভাবে,kothorbhabe
+W0849,adverb,hastily,তাড়াতাড়ি,তাড়াতাড়ি,taratari
+W0850,adverb,heartbreakingly,হৃদয়বিদারকভাবে,হৃদয়বিদারকভাবে,hridoybidarokbhabe
+W0851,adverb,heavily,প্রচণ্ডভাবে,প্রচণ্ডভাবে,prochondobhabe
+W0852,adverb,helpfully,সহায়কভাবে,সহায়কভাবে,shohayokbhabe
+W0853,adverb,here,এখানে,এখানে,ekhane
+W0854,adverb,hesitantly ,দ্বিধায়,দ্বিধায়,didhay
+W0855,adverb,honestly,সৎভাবে,সৎভাবে,shotbhabe
+W0856,adverb,hopelessly,হতাশাজনকভাবে,হতাশাজনকভাবে,hotashjonokbhabe
+W0857,adverb,hungrily,ক্ষুধার্তভাবে,ক্ষুধার্তভাবে,khudharthobhabe
+W0858,adverb,immediately,অবিলম্বে,অবিলম্বে,obilombe
+W0859,adverb,immensely ,অসীমভাবে,অসীমভাবে,oshimbhabe
+W0860,adverb,importantly,গুরুত্বপূর্ণভাবে,গুরুত্বপূর্ণভাবে,guruttopurnobhabe
+W0861,adverb,impossibly,অসম্ভবভাবে,অসম্ভবভাবে,oshomvobbhabe
+W0862,adverb,incredibly ,অবিশ্বাস্যভাবে,অবিশ্বাস্যভাবে,obisshasshobhabe
+W0863,adverb,independently,স্বাধীনভাবে,স্বাধীনভাবে,shadhinbhabe
+W0864,adverb,indirectly,পরোক্ষভাবে,পরোক্ষভাবে,porokkhobhabe
+W0865,adverb,ineffably,অবর্ণনীয়ভাবে,অবর্ণনীয়ভাবে,oborniyobhabe
+W0866,adverb,inevitably,অনিবার্যভাবে,অনিবার্যভাবে,onibarjobhabe
+W0867,adverb,innocently,নির্দোষভাবে,নির্দোষভাবে,nirdoshbhabe
+W0868,adverb,inside,ভিতরে,ভিতরে,bhitore
+W0869,adverb,instantly,অবিলম্বে,অবিলম্বে,obilombe
+W0870,adverb,intensely,তীব্রভাবে,তীব্রভাবে,tibro bhabe
+W0871,adverb,interestingly,আকর্ষণীয়ভাবে,আকর্ষণীয়ভাবে,akorshoniobhabe
+W0872,adverb,inwardly,গোপনে,গোপনে,gopone
+W0873,adverb,irregularly,অভ্যন্তরীণভাবে,অভ্যন্তরীণভাবে,obvontorinbhabe
+W0874,adverb,jointly,যৌথভাবে,যৌথভাবে,jouthobhabe
+W0875,adverb,jokingly,ঠাট্টা করে,ঠাট্টা করে,thatta kore
+W0876,adverb,joyfully,আনন্দভাবে,আনন্দভাবে,anondobhabe
+W0877,adverb,justly,যথাযথরূপে,যথাযথরূপে,jothajothorupe
+W0878,adverb,keenly,গভীরভাবে,গভীরভাবে,govirbhabe
+W0879,adverb,kindly,দয়া করে,দয়া করে,doya kore
+W0880,adverb,knowingly,ইচ্ছাপূর্বক,ইচ্ছাপূর্বক,ichhapurbok
+W0881,adverb,largely,বিশালভাবে,বিশালভাবে,bishalbhabe
+W0882,adverb,later,পরে,পরে,pore
+W0883,adverb,lightly,হালকাভাবে,হালকাভাবে,halkabhabe
+W0884,adverb,likely,সম্ভবত,সম্ভবত,shomvoboto
+W0885,adverb,lingeringly,দীর্ঘস্থায়ীভাবে,দীর্ঘস্থায়ীভাবে,dirghosthayibhabe
+W0886,adverb,loosely,আলগাভাবে,আলগাভাবে,algabhabe
+W0887,adverb,loudly,জোরে,জোরে,jore
+W0888,adverb,luminously,আলোকিতভাবে,আলোকিতভাবে,alokitobhabe
+W0889,adverb,madly,পাগলের মতো,পাগলের মতো,pagoler moto
+W0890,adverb,mainly,প্রধানত,প্রধানত,prodhanoto
+W0891,adverb,majestically ,রাজকীয়ভাবে,রাজকীয়ভাবে,rajokiyobhabe
+W0892,adverb,melancholically,বিষাদময়ভাবে,বিষাদময়ভাবে,bishadmoybhabe
+W0893,adverb,mentally,মানসিকভাবে,মানসিকভাবে,manoshikbhabe
+W0894,adverb,merely,কেবলমাত্র,কেবলমাত্র,kebolmatro
+W0895,adverb,mildly,হালকাভাবে,হালকাভাবে,halkabhabe
+W0896,adverb,monthly,প্রতি মাসে,প্রতি মাসে,proti mashe
+W0897,adverb,most,প্রায়,প্রায়,pray
+W0898,adverb,mournfully,শোকাতুরভাবে,শোকাতুরভাবে,shokaturbhabe
+W0899,adverb,naturally,স্বাভাবিকভাবেই,স্বাভাবিকভাবেই,shavabikbhabei
+W0900,adverb,near,কাছে,কাছে,kache
+W0901,adverb,neatly,সুন্দরভাবে,সুন্দরভাবে,shundorbhabe
+W0902,adverb,never,কখনো না,কখনো না,kokhono na
+W0903,adverb,noticeably,লক্ষণীয়ভাবে,লক্ষণীয়ভাবে,lokkhoniovabe
+W0904,adverb,now,এখন,এখন,ekhon
+W0905,adverb,obediently,বাধ্য হয়ে,বাধ্য হয়ে,badhho hoye
+W0906,adverb,occasionally,মাঝে মাঝে,মাঝে মাঝে,majhe majhe
+W0907,adverb,often,প্রায়ই,প্রায়ই,prayi
+W0908,adverb,openheartedly,খোলা মনে,খোলা মনে,khola mone
+W0909,adverb,openly,প্রকাশ্যে,প্রকাশ্যে,prokashshe
+W0910,adverb,optimistically,আশাবাদীভাবে,আশাবাদীভাবে,ashabadibhabe
+W0911,adverb,outside,বাইরে,বাইরে,baire
+W0912,adverb,overwhelmingly,অপ্রতিরোধ্যভাবে,অপ্রতিরোধ্যভাবে,oprotiroddhobhabe
+W0913,adverb,painfully,যন্ত্রণাদায়কভাবে,যন্ত্রণাদায়কভাবে,jontronadayokbhabe
+W0914,adverb,partially,আংশিকভাবে,আংশিকভাবে,angshikbhabe
+W0915,adverb,passionately ,মনেপ্রাণে,মনেপ্রাণে,moneprane
+W0916,adverb,perfectly,ঠিকভাবে,ঠিকভাবে,thikbhabe
+W0917,adverb,perhaps,হয়তো,হয়তো,hoyto
+W0918,adverb,personally,ব্যক্তিগতভাবে,ব্যক্তিগতভাবে,bektigotobhabe
+W0919,adverb,physically,শারীরিকভাবে,শারীরিকভাবে,sharirikbhabe
+W0920,adverb,plaintively,করুণভাবে,করুণভাবে,korunbhabe
+W0921,adverb,poignantly,হৃদয়স্পর্শীভাবে,হৃদয়স্পর্শীভাবে,hridoysporshibhabe
+W0922,adverb,politely,ভদ্রভাবে,ভদ্রভাবে,bhodrobhabe
+W0923,adverb,poorly,খারাপভাবে,খারাপভাবে,kharapbhabe
+W0924,adverb,positively,ইতিবাচকভাবে,ইতিবাচকভাবে,itibachokbhabe
+W0925,adverb,powerfully,শক্তিশালীভাবে,শক্তিশালীভাবে,shoktishalibhabe
+W0926,adverb,practically,বাস্তবে,বাস্তবে,bastobe
+W0927,adverb,precisely,সঠিকভাবে,সঠিকভাবে,shothikbhabe
+W0928,adverb,privately,গোপনে,গোপনে,gopone
+W0929,adverb,probably,সম্ভবত,সম্ভবত,sombhoboto
+W0930,adverb,profoundly ,গভীরভাবে,গভীরভাবে,gobhirbhabe
+W0931,adverb,promptly,অবিলম্বে,অবিলম্বে,obilombe
+W0932,adverb,quickly,জলদি,জলদি,joldi
+W0933,adverb,quietly,শান্তভাবে,শান্তভাবে,shantobhabe
+W0934,adverb,radiantly,ঝলমলে,ঝলমলে,jholmole
+W0935,adverb,randomly,এলোমেলোভাবে,এলোমেলোভাবে,elomelobhabe
+W0936,adverb,rapidly,দ্রুতভাবে,দ্রুতভাবে,drutobhabe
+W0937,adverb,rarely,কদাচিৎ,কদাচিৎ,kodachit
+W0938,adverb,ravishingly,অপরূপভাবে,অপরূপভাবে,oporupbhabe
+W0939,adverb,really,প্রকৃতিপক্ষে,প্রকৃতিপক্ষে,prokritipokkhe
+W0940,adverb,recently,সম্প্রতি,সম্প্রতি,shomproti
+W0941,adverb,regularly,নিয়মিত,নিয়মিত,niyomito
+W0942,adverb,relatively,তুলনামূলকভাবে,তুলনামূলকভাবে,tulonamulokbhabe
+W0943,adverb,remarkably ,উল্লেখযোগ্যভাবে,উল্লেখযোগ্যভাবে,ullekhjoggobhabe
+W0944,adverb,repeatedly,বারবার,বারবার,barbar
+W0945,adverb,resoundingly,ধ্বনিতভাবে,ধ্বনিতভাবে,dhonitobhabe
+W0946,adverb,reverently,শ্রদ্ধার সাথে,শ্রদ্ধার সাথে,sroddhar shathe
+W0947,adverb,roughly,মোটামুটি,মোটামুটি,motamuti
+W0948,adverb,safely,নিরাপদে,নিরাপদে,nirapode
+W0949,adverb,secretly,গোপনে,গোপনে,gopone
+W0950,adverb,serenely,শান্তভাবে,শান্তভাবে,shantobhabe
+W0951,adverb,seriously,গম্ভীরভাবে,গম্ভীরভাবে,gomvirbhabe
+W0952,adverb,shortly,শীঘ্র,শীঘ্র,shighro
+W0953,adverb,significantly,উল্লেখযোগ্যভাবে,উল্লেখযোগ্যভাবে,ullekhjoggobhabe
+W0954,adverb,silently,নিঃশব্দে,নিঃশব্দে,nishobde
+W0955,adverb,slowly,ধীরে,ধীরে,dhire
+W0956,adverb,smoothly,সহজে,সহজে,shohoje
+W0957,adverb,softly,নরমভাবে,নরমভাবে,noromvabe
+W0958,adverb,solidly,দৃঢ়ভাবে,দৃঢ়ভাবে,drirobhabe
+W0959,adverb,sometimes,মাঝেমধ্যে,মাঝেমধ্যে,majhe moddhe
+W0960,adverb,soon ,শীঘ্রই,শীঘ্রই,shigroi
+W0961,adverb,soundlessly,শব্দহীনভাবে,শব্দহীনভাবে,shobdhohin bhabe
+W0962,adverb,specially,বিশেষভাবে,বিশেষভাবে,bisheshbhabe
+W0963,adverb,steadfastly,অবিচলিতভাবে,অবিচলিতভাবে,obicholitobhabe
+W0964,adverb,strictly,কঠোরভাবে,কঠোরভাবে,kothorbhabe
+W0965,adverb,strongly,প্রবলভাবে,প্রবলভাবে,probolbhabe
+W0966,adverb,suddenly,হঠাৎ,হঠাৎ,hothat
+W0967,adverb,surely,নিশ্চয়,নিশ্চয়,nishchoi
+W0968,adverb,swiftly,ক্ষিপ্রবেগে,ক্ষিপ্রবেগে,khiprobege
+W0969,adverb,thankfully,সৌভাগ্যক্রমে,সৌভাগ্যক্রমে,shoubhaggokrome
+W0970,adverb,then,তখন,তখন,tokhon
+W0971,adverb,there,ওখানে,ওখানে,okhane
+W0972,adverb,thoroughly,সমগ্রভাবে,সমগ্রভাবে,shomogrobhabe
+W0973,adverb,tightly,শক্তভাবে,শক্তভাবে,shoktobhabe
+W0974,adverb,timelessly ,কালাতীতভাবে,কালাতীতভাবে,kalatitbhabe
+W0975,adverb,together,একসাথে,একসাথে,aksathe
+W0976,adverb,too,অত্যন্ত,অত্যন্ত,ottonto
+W0977,adverb,transcendentally,অতীন্দ্রিয়ভাবে,অতীন্দ্রিয়ভাবে,otindriyobhabe
+W0978,adverb,tremendously ,বিপুলভাবে,বিপুলভাবে,bipulbhabe
+W0979,adverb,ultimately,চূড়ান্তভাবে,চূড়ান্তভাবে,churantobhabe
+W0980,adverb,unusually,অসাধারণভাবে,অসাধারণভাবে,oshadharonbhabe
+W0981,adverb,unwaveringly,অবিচলভাবে,অবিচলভাবে,obicholbhabe
+W0982,adverb,up,উপরে,উপরে,upore
+W0983,adverb,urgently,জরুরীভাবে,জরুরীভাবে,joruribhabe
+W0984,adverb,usefully,কার্যকরভাবে,কার্যকরভাবে,karjokorbhabe
+W0985,adverb,utterly,নিতান্তই,নিতান্তই,nitantoi
+W0986,adverb,vaguely,অস্পষ্টভাবে,অস্পষ্টভাবে,osposhtobhabe
+W0987,adverb,very,খুব,খুব,khub
+W0988,adverb,vibrantly ,স্পন্দিতভাবে,স্পন্দিতভাবে,sponditobhabe
+W0989,adverb,violently,হিংস্রভাবে,হিংস্রভাবে,hingshrobhabe
+W0990,adverb,visibly,দৃশ্যমানভাবে,দৃশ্যমানভাবে,drishhomanbhabe
+W0991,adverb,voraciously,লোভাতুরভাবে,লোভাতুরভাবে,lobhaturbhabe
+W0992,adverb,warmly,উষ্ণভাবে,উষ্ণভাবে,ushnobhabe
+W0993,adverb,well ,ভালভাবে,ভালভাবে,bhalobhabe
+W0994,adverb,wildly,দুর্দান্তভাবে,দুর্দান্তভাবে,durdantobhabe
+W0995,adverb,willingly,স্বেচ্ছায়,স্বেচ্ছায়,shechhay
+W0996,adverb,wisely,বিজ্ঞতার সাথে,বিজ্ঞতার সাথে,biggotar shathe
+W0997,adverb,wrongly,ভুলভাবে,ভুলভাবে,bhulbhabe
+W0998,adverb,yearningly,আকুলভাবে,আকুলভাবে,akulbhabe
+W0999,adverb,yet,এখনও,এখনও,ekhono
+W1000,adverb,zealously,উদ্যমের সাথে,উদ্যমের সাথে,uddomer shathe
