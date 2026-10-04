@@ -82,6 +82,10 @@ Correctness is evaluated using two methods:
 Each notebook includes the full pipeline: model loading, logit lens hook setup, inference across all four conditions, LaBSE evaluation, metric computation, and figure generation.
 
 
+## Notes on Hardware
+
+Both experiments were run on Kaggle free tier with two T4 GPUs (16 GB VRAM each). If running locally, a minimum of 16 GB GPU VRAM is recommended. CPU-only appraoch is not practical for these model sizes.
+
 
 
 
