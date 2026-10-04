@@ -52,6 +52,23 @@ Correctness is evaluated using two methods:
 τ = 0.80 is the primary reporting threshold. Sensitivity analysis confirms findings are stable across all thresholds.
 
 
+## Requirements
+
+    Python 3.12
+
+    bitsandbytes>=0.42.0
+    accelerate>=0.27.0
+    transformers>=4.40.0
+    huggingface_hub>=0.21.0
+    sentence-transformers>=2.7.0
+    torch>=2.0.0
+    langdetect
+    pandas
+    matplotlib
+    numpy
+
+
+
 
 
 
