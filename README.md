@@ -67,8 +67,19 @@ Correctness is evaluated using two methods:
     matplotlib
     numpy
 
+## Reproducing the Experiments
 
+1. Clone this repository
+2. Install dependencies
+3. Download the dataset from `Dataset/Master Dataset 1k.csv`
+4. Add your HuggingFace token — both models require a HuggingFace account and license acceptance at:
+   - [Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct)
+   - [Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)
+5. Run the experiment notebooks in order:
+   - `Codes/Main Experiments/Llama.ipynb`
+   - `Codes/Main Experiments/Qwen.ipynb`
 
+Each notebook includes the full pipeline: model loading, logit lens hook setup, inference across all four conditions, LaBSE evaluation, metric computation, and figure generation.
 
 
 
