@@ -23,3 +23,32 @@ The dataset contains 1,000 common, culturally neutral concept words balanced equ
 The dataset is permanently archived on Zenodo with a citable DOI:
 
 > **Dataset DOI:** [link]
+
+## Experimental Conditions
+
+| Condition | Source Language | Target Format | Ground Truth Column |
+|---|---|---|---|
+| G1-E | English | Bangla script | bangla_script_target |
+| G1-B | Bangla | Bangla script | bangla_script_target |
+| G2-E | English | Romanized Bangla | romanized_target |
+| G2-B | Bangla | Romanized Bangla | romanized_target |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
