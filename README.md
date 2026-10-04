@@ -42,7 +42,14 @@ The dataset is permanently archived on Zenodo with a citable DOI:
 
 Both models are loaded in 4-bit NF4 quantization using `bitsandbytes`. Experiments were run on two NVIDIA T4 GPUs (16 GB VRAM each) via the Kaggle free tier.
 
+## Evaluation
 
+Correctness is evaluated using two methods:
+
+- **Exact match** - strict string comparison (case-insensitive for Romanized conditions)
+- **Semantic similarity** - LaBSE cosine similarity at thresholds τ ∈ {0.75, 0.80, 0.85}
+
+τ = 0.80 is the primary reporting threshold. Sensitivity analysis confirms findings are stable across all thresholds.
 
 
 
