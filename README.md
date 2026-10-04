@@ -33,7 +33,14 @@ The dataset is permanently archived on Zenodo with a citable DOI:
 | G2-E | English | Romanized Bangla | romanized_target |
 | G2-B | Bangla | Romanized Bangla | romanized_target |
 
+## Models
 
+| Model | Parameters | Category |
+|---|---|---|
+| Llama-3.1-8B-Instruct | 8B | English-centric, no verified Bangla pretraining |
+| Qwen2.5-7B-Instruct | 7B | Genuinely multilingual, confirmed Bangla pretraining |
+
+Both models are loaded in 4-bit NF4 quantization using `bitsandbytes`. Experiments were run on two NVIDIA T4 GPUs (16 GB VRAM each) via the Kaggle free tier.
 
 
 
