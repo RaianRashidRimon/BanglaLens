@@ -87,10 +87,11 @@ Each notebook includes the full pipeline: model loading, logit lens hook setup, 
 Both experiments were run on Kaggle free tier with two T4 GPUs (16 GB VRAM each). If running locally, a minimum of 16 GB GPU VRAM is recommended. CPU-only appraoch is not practical for these model sizes.
 
 
+## License
 
-
-
-
+- **Code** — MIT License. See `LICENSE` in the root directory.
+- **Dataset** — Creative Commons Zero v1.0 Universal (CC0 1.0). See `Dataset/LICENSE`.
+  The dataset is released into the public domain. You are free to copy, modify and distribute it for any purpose without permission.
 
 
 
