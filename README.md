@@ -22,7 +22,7 @@ The dataset contains 1,000 common, culturally neutral concept words balanced equ
 
 The dataset is permanently archived on Zenodo with a citable DOI:
 
-> **Dataset DOI:** [link]
+> **Dataset DOI:** https://doi.org/10.5281/zenodo.23167135
 
 ## Experimental Conditions
 
